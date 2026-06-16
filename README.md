@@ -144,7 +144,6 @@ Run all cells to reproduce data analysis and model training.
 - Advanced deep learning models
 - Better handling of class imbalance
 - Deployment as a web application
-- Real-time crime prediction system
 
 ## 👨‍💻 Author
 
